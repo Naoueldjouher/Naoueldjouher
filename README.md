@@ -3,11 +3,22 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Naouel</h1>
-<p style="text-align: left; font-weight: normal;">
-  An Agrobiotech student with a deep passion for bioinformatics.
-  I completed an internship with a primary focus on studying structural variants within the transcription factor binding sites (TFBS) of Brassica oleracea.
-  Currently, I'm actively expanding my knowledge by delving into gene set enrichment analysis.
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1631557674886-42edec9aacaa?auto=format&fit=crop&q=80&w=400&h=300&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Naouel's Profile" width="600" height="300">
 </p>
+
+<h1 align="center">Hi 👋, I'm Naouel</h1>
+
+<p style="text-align: left; font-weight: normal;">
+  <b>Double-Master’s Graduate | Agrobiotech & Molecular Pathology | Data Science Specialist</b>
+  <br><br>
+  I am a business-oriented scientist bridging the gap between genomic research and scalable industrial solutions. My expertise lies in building reproducible, cloud-native bioinformatics pipelines and leveraging data science to optimize global food systems.
+</p>
+
+### 🚀 Current Focus:
+- 🏗️ **AMR-Flow:** Architecting a high-throughput genomic scalability pipeline optimized for **AWS Batch & S3**.
+- 🧬 **Genomics:** Enhancing automated bacterial genome analysis (Nextflow/Docker).
+- 📈 **Data Science:** Applying Deep Learning for time-series forecasting in industrial sectors.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,18 +29,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org" target="blank" rel="noreferrer">
-    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </p>
-<h3 align="left">Analysis Performed:</h3>
+
+<h3 align="left">Specialized Analysis:</h3>
 <ul>
-  <li>ChIP-Seq</li>
-  <li>RNA-Seq</li>
+  <li><b>Bioinformatics:</b> Nextflow (DSL2), RNA-Seq, Variant Calling, ChIP-Seq.</li>
+  <li><b>Engineering:</b> AWS (S3, Batch), Docker, HPC (Slurm).</li>
+  <li><b>Data Science:</b> Scikit-learn, Time-Series Forecasting, SQL.</li>
 </ul>
