@@ -8,9 +8,8 @@
   <b>Bioinformatics Engineer 
 </p>
 <p style="text-align: left;">
-  I am a <b>Double-Master’s graduate</b> (Agrobiotechnology & Molecular Pathology) specialized in bridging the gap between biological research and scalable computational infrastructure. My work focuses on building reproducible <b>Nextflow</b> pipelines, <b>AWS Cloud</b> architecture, and <b>Machine Learning</b> models for industrial R&D.
+  I am a <b>Double-Master’s graduate</b> (Agrobiotechnology & Molecular Pathology) specialized in bridging the gap between biological research and scalable computational infrastructure. My work focuses on building reproducible <b>Nextflow</b> pipelines, <b>AWS Cloud</b> architecture.
 </p>
-
 ---
 
 ### 🚀 Active Projects
