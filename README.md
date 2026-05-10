@@ -3,12 +3,9 @@
 <p align="center">
   <b>Bioinformatician | Genomic Workflows | Nextflow, AWS & Data Science</b>
 </p>
+I build end-to-end solutions for genomic pipelines—provisioning AWS infrastructure via Terraform, deploying Nextflow pipelines, and writing custom Python and R code to translate raw sequencing reads into accurate genomic interpretations.
 
-I am a double master’s graduate in **Agrobiotechnology** and **Biotechnology & Molecular Pathology**, focused on building reproducible computational workflows for genomic data analysis.
-
-My work combines biological domain knowledge with practical engineering skills in **Nextflow**, **Python**, **R**, **Docker**, **AWS Batch/S3**, **Terraform**, and **HPC/Slurm**. I am especially interested in **microbial genomics**, **AMR detection**, **plant biotechnology**, and scalable research infrastructure.
-
-Currently, I am building cloud-ready bioinformatics pipelines and strengthening my expertise in workflow engineering, Infrastructure as Code, and applied genomic data analysis.
+With a double Master’s in Agrobiotechnology and Molecular Pathology, my biological training provides the context needed to design scalable workflows tailored for microbial genomics, antimicrobial resistance (AMR), and plant biotechnology.
 
 ---
 
