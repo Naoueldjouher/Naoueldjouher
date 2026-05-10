@@ -1,50 +1,66 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1631557674886-42edec9aacaa?auto=format&fit=crop&q=80&w=400&h=300" alt="Naouel's Profile" width="600" height="300">
-</p>
-
-<h1 align="center">Hi 👋, I'm Naouel El Djouher</h1>
+<h1 align="center">Hi, I'm Naouel El Djouher 👋</h1>
 
 <p align="center">
-  <b>Bioinformatics Engineer 
+  <b>Early-Career Bioinformatician | Genomic Workflows | Nextflow, AWS & Data Science</b>
 </p>
-<p style="text-align: left;">
-  I am a <b>Double-Master’s graduate</b> (Agrobiotechnology & Molecular Pathology) specialized in bridging the gap between biological research and scalable computational infrastructure. My work focuses on building reproducible <b>Nextflow</b> pipelines, <b>AWS Cloud</b> architecture.
-</p>
----
 
-### 🚀 Active Projects
+I am a double master’s graduate in **Agrobiotechnology** and **Biotechnology & Molecular Pathology**, focused on building reproducible computational workflows for genomic data analysis.
 
-#### 🏗️ AMR-Flow: Cloud-Native Genomic Scalability (In Development)
-- Architecting a high-throughput genomic pipeline optimized for **AWS Batch & S3**.
-- **Current Focus:** Implementing cost-optimization parameters and automated resource provisioning for large-scale industrial R&D.
-- *Status: Private repository / Active development.*
+My work combines biological domain knowledge with practical engineering skills in **Nextflow**, **Python**, **R**, **Docker**, **AWS Batch/S3**, **Terraform**, and **HPC/Slurm**. I am especially interested in **microbial genomics**, **AMR detection**, **plant biotechnology**, and scalable research infrastructure.
 
-#### 🧬 Baktflow: Bacterial Genome Pipeline (Proprietary)
-**M.Sc. Thesis Project | JLU Gießen**
-- Developed a standardized, reproducible DSL2 Nextflow workflow for Short, Long-read, and Hybrid sequencing.
-- **Record:** [DOI: 10.5281/zenodo.14995561](https://doi.org/10.5281/zenodo.14995561) (Restricted Access)
-- *Note: Source code is proprietary and subject to University IP restrictions.*
+Currently, I am building cloud-ready bioinformatics pipelines and strengthening my expertise in workflow engineering, Infrastructure as Code, and applied genomic data analysis.
 
 ---
 
-### 🛠️ Core Expertise
-- **Engineering:** Nextflow (DSL2), Docker, AWS (Batch, S3, EC2), Slurm HPC.
-- **Data Science:** Predictive modeling (Scikit-learn), Time-Series Forecasting, SQL, Python, R.
-- **Genomics:** Bacterial genomics, RNA-Seq, Variant Calling, Hybrid Sequencing.
+## Active Projects
 
-### 📬 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/naouel-el-djouher" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-</p>
+### AMR-Flow — Cloud-Native Bacterial Genome Assembly and AMR Detection Pipeline
 
-### 💻 Tech Stack:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</p>
+**Nextflow | AWS Batch | Amazon S3 | Docker | Terraform | Streamlit**
+
+AMR-Flow is a cloud-native bioinformatics pipeline for bacterial genome assembly, annotation, and antimicrobial resistance gene detection. It supports short-read, long-read, and hybrid sequencing workflows and is designed for reproducible execution on AWS Batch.
+
+**Highlights:**
+
+- Built a modular **Nextflow DSL2** workflow for bacterial genome assembly and AMR detection.
+- Integrated tools including **FastP**, **Filtlong**, **Unicycler**, **Flye**, **Medaka**, **Bakta**, and **AMRFinderPlus**.
+- Deployed scalable execution using **AWS Batch**, **EC2 Spot**, **Amazon S3**, and Docker containers.
+- Used **Terraform-based Infrastructure as Code** to provision cloud infrastructure.
+- Developed a **Streamlit interface** for S3 upload, manifest generation, workflow launch, and result reporting.
+
+Repository: add link
+
+### Baktflow — Bacterial Genome Analysis Pipeline
+
+**M.Sc. Thesis Project | Nextflow | Bacterial Genomics | Genome Assembly | Annotation**
+
+Baktflow is a reproducible Nextflow workflow developed for bacterial genome analysis, from raw sequencing reads to assembly and functional annotation.
+
+**Highlights:**
+
+- Designed a modular **Nextflow DSL2** workflow for short-read, long-read, and hybrid sequencing data.
+- Automated routine bacterial genomics tasks including quality control, assembly, and annotation.
+- Built the workflow as part of my M.Sc. thesis at Justus Liebig University Giessen.
+
+Record: [doi.org](https://doi.org/10.5281/zenodo.14995561)  
+Note: Source code access is restricted due to university IP conditions.
+
+---
+
+## Core Expertise
+
+**Bioinformatics & Genomics:** NGS analysis, bacterial genome assembly, genome annotation, AMR detection, RNA-seq, variant analysis, promoter analysis
+
+**Workflow Engineering:** Nextflow DSL2, Docker, Bash, Git/GitHub, reproducible pipelines, workflow modularization
+
+**Cloud & Infrastructure:** AWS Batch, Amazon S3, EC2 Spot, Terraform, Infrastructure as Code, HPC/Slurm
+
+**Programming & Data Science:** Python, R, SQL, Pandas, Scikit-learn, Tidyverse, data cleaning, quality control, time-series forecasting
+
+---
+
+## Connect
+
+LinkedIn: [linkedin.com](https://linkedin.com/in/naouel-el-djouher)  
+Email: hellonaouel@gmail.com
+
