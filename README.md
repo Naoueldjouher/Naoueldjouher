@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Naouel El Djouher 👋</h1>
 
 <p align="center">
-  <b>Early-Career Bioinformatician | Genomic Workflows | Nextflow, AWS & Data Science</b>
+  <b>Bioinformatician | Genomic Workflows | Nextflow, AWS & Data Science</b>
 </p>
 
 I am a double master’s graduate in **Agrobiotechnology** and **Biotechnology & Molecular Pathology**, focused on building reproducible computational workflows for genomic data analysis.
