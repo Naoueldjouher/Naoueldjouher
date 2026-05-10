@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Naouel El Djouher 👋</h1>
+<h1 align="center">Hi, I'm Naouel ElDjouher 👋</h1>
 
 <p align="center">
   <b>Bioinformatician | Genomic Workflows | Nextflow, AWS & Data Science</b>
