@@ -43,7 +43,7 @@ Baktflow is a reproducible Nextflow workflow developed for bacterial genome anal
 
 An archival Nextflow pipeline designed to reproduce a yeast genome study, processing raw Illumina sequencing data to identify genomic variants using the GATK best practices framework.
 
-🔗 **Repository:** [yeast-variant-calling-nf on GitHub](https://github.com/Naoueldjouher/yeast-variant-calling-nf)
+🔗 **Repository:** [yeast-variant-calling-nf](https://github.com/Naoueldjouher/yeast-variant-calling-nf)
 
 ---
 
@@ -58,6 +58,6 @@ An archival Nextflow pipeline designed to reproduce a yeast genome study, proces
 
 ## 📫 Connect
 
-* **LinkedIn:** [linkedin.com/in/naouel-el-djouher](https://linkedin.com/in/naouel-el-djouher)  
+* **LinkedIn:** [linkedin.com/in/naoueleldjouher](https://www.linkedin.com/in/naoueleldjouher/)
 * **Email:** [hellonaouel@gmail.com](mailto:hellonaouel@gmail.com)
 
