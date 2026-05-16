@@ -23,7 +23,7 @@ NextAMR is a cloud-native bioinformatics pipeline for bacterial genome assembly,
 - **Provisioned** cloud infrastructure using Terraform-based Infrastructure as Code.
 - **Developed** a Streamlit interface for S3 upload, manifest generation, workflow launch, and result reporting.
 
-🔗 **Repository:** [NextAMR on GitHub]((https://github.com/NaouelEldjouher/NextAMR))
+🔗 **Repository:** [NextAMR on GitHub](https://github.com/NaouelEldjouher/NextAMR)
 
 ### Baktflow — Bacterial Genome Analysis Pipeline
 **M.Sc. Thesis Project | Nextflow | Bacterial Genomics | Genome Assembly | Annotation**
