@@ -11,10 +11,10 @@ Because my background is in Agrobiotechnology and Molecular Pathology, my code i
 
 ## 🚀 Active & Past Projects
 
-### AMR-Flow — Cloud-Native Bacterial Genome Assembly and AMR Detection Pipeline
+### NextAMR — Cloud-Native Bacterial Genome Assembly and AMR Detection Pipeline
 **Nextflow | AWS Batch | Amazon S3 | Docker | Terraform | Streamlit**
 
-AMR-Flow is a cloud-native bioinformatics pipeline for bacterial genome assembly, annotation, and antimicrobial resistance gene detection. It supports short-read, long-read, and hybrid sequencing workflows and is designed for reproducible execution on AWS Batch.
+NextAMR is a cloud-native bioinformatics pipeline for bacterial genome assembly, annotation, and antimicrobial resistance gene detection. It supports short-read, long-read, and hybrid sequencing workflows and is designed for reproducible execution on AWS Batch.
 
 **Highlights:**
 - **Architected** a modular Nextflow DSL2 workflow for bacterial genome assembly and AMR detection.
@@ -23,7 +23,7 @@ AMR-Flow is a cloud-native bioinformatics pipeline for bacterial genome assembly
 - **Provisioned** cloud infrastructure using Terraform-based Infrastructure as Code.
 - **Developed** a Streamlit interface for S3 upload, manifest generation, workflow launch, and result reporting.
 
-🔗 **Repository:** [AMR-Flow on GitHub](https://github.com/NaouelEldjouher/AMR-Flow)
+🔗 **Repository:** [NextAMR on GitHub]((https://github.com/NaouelEldjouher/NextAMR))
 
 ### Baktflow — Bacterial Genome Analysis Pipeline
 **M.Sc. Thesis Project | Nextflow | Bacterial Genomics | Genome Assembly | Annotation**
