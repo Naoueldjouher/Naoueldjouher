@@ -59,5 +59,5 @@ An archival Nextflow pipeline designed to reproduce a yeast genome study, proces
 ## 📫 Connect
 
 * **LinkedIn:** [linkedin.com/in/naoueleldjouher](https://www.linkedin.com/in/naoueleldjouher/)
-* **Email:** [hellonaouel@gmail.com](mailto:hellonaouel@gmail.com)
+
 
